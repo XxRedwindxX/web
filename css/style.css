@@ -3,7 +3,7 @@
     background-color: #0cb6f1 !important;
 }
 .btn-primary {
-    background-color: white;
+    background-color: red !important;
     color: #0cb6f1;
     font-size: 17px;
     font-weight: bold;
